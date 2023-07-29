@@ -1,4 +1,4 @@
-**Online Resume Builder in Java:**
+**Online Resume Builder in Java**
 
 
 
